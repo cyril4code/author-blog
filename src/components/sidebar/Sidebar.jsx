@@ -6,7 +6,7 @@ export const Sidebar = () => {
     <div className="sidebar">
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
-        <img src={Tyagi} alt="" />
+        <img src={Tyagi} alt="" className="sidebarImg" />
         <p>
           Nirmesh Tyagi ji is recognized as a social worker as well as a senior
           journalist and editor. He was born on 8-8-1967 in Ghaziabad district
